@@ -66,7 +66,7 @@
     "node-sass": "^4.5.3",
     "prop-types": "^15.5.8",
     "react": "^15.5.4",
-    "react-docgen": "^2.13.0",
+    "react-docgen": "^3.0.0",
     "react-dom": "^15.5.4",
     "react-styleguidist": "^4.6.3",
     "react-test-renderer": "^15.5.4",
