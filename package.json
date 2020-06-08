@@ -60,7 +60,7 @@
     "extract-text-webpack-plugin": "^1.0.1",
     "isparta-loader": "^2.0.0",
     "jsdom": "16.2.2",
-    "jsdom-global": "3.0.0",
+    "jsdom-global": "3.0.2",
     "mocha": "^7.0.1",
     "mocha-lcov-reporter": "^1.2.0",
     "node-sass": "^4.5.3",
